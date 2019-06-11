@@ -12,7 +12,7 @@ namespace api01.Models
         public string Name { get; set; }
         
         
-        public string Hello  { get; set; }
+       
 
         public bool IsComplete { get; set; }
 
